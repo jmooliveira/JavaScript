@@ -23,7 +23,7 @@ var isStudent = false //boolean
 
 //objeto, array, function
 
-var person = { //declaração de um objeto, "srtuct em c"
+var person = { //declaração de um objeto, "struct em c"
     "name": "Jeff",
     "age": 35
 }
