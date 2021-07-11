@@ -1,6 +1,6 @@
-"Simara é"
-let role = "transformadora"
+"Jefferson é"
+let role = "dedicado"
 
-console.log(`Simara é ${role}`)
+console.log('Jefferson é ${role}') //interpolação
 
-console.log("Simara é" + " " + role)
+console.log("Jefferson é" + " " + role) //concatenação
